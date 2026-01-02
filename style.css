@@ -211,7 +211,7 @@ body {
 }
 
 .section {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .section h2 {
@@ -232,7 +232,7 @@ body {
 }
 
 .item {
-    margin-bottom: 12px;
+    margin-bottom: 10px;
     padding-left: 12px;
     border-left: 3px solid #8e44ad;
     position: relative;
